@@ -22,3 +22,4 @@ class ChessGame:
         # 3. Check if it is a valid move or not
         # 4. Check whether it is a castling move or not
         # 5. Store the move
+        pass
